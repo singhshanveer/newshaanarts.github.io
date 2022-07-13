@@ -1,2 +1,1 @@
-# newshaanarts.github.io
- Update of the website
+# shaanarts.github.io
